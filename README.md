@@ -1,6 +1,5 @@
 ## Hello! Welcome to my GitHub profile 👋
-### My name is Rafael Bezerra or you can call me just Bezerra if you want to.
-
+My name is Rafael Bezerra or you can call me just Bezerra if you want to. 
 I'm a mechanical engineer and a data science enthusiast.
 
 <!--
