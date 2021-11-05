@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello! Welcome to my GitHub profile 👋
+### My name is Rafael Bezerra or you can call me just Bezerra if you want to
 
 <!--
 **bezerraescossia/bezerraescossia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
