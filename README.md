@@ -1,7 +1,12 @@
-## Hello! Welcome to my GitHub profile 👋
+# Hello! Welcome to my GitHub profile 👋
 My name is Rafael Bezerra or you can call me just Bezerra if you want to. 
-I'm a mechanical engineer and a data science enthusiast.
 
+I'm a mechanical engineer and a data scientist.
+
+In my profile is possible to find some works and study cases i've done, feel free to explore them and if you have any questions I'm available for chatting
+
+- 📫 How to reach me: bezerraescossia@gmail.com
+- 🌐 My webpage: bezerraescossia.github.io
 <!--
 **bezerraescossia/bezerraescossia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
