@@ -7,6 +7,11 @@ In my profile is possible to find some works and study cases i've done, feel fre
 
 - 📫 How to reach me: bezerraescossia@gmail.com
 - 🌐 My webpage: bezerraescossia.github.io
+
+## Repositories
+My repositories can be segmented in personal projects, freelancer jobs and studies
+### Studies
+- [network]
 <!--
 **bezerraescossia/bezerraescossia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
