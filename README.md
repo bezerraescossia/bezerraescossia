@@ -11,7 +11,7 @@ In my profile is possible to find some works and study cases i've done, feel fre
 ## Repositories
 ### Studies
 - [Network Analysis](https://github.com/bezerraescossia/network-analysis)
-- [Data Science (IMD)](https://github.com/bezerraescossia/imd-data-science)
+- [Data Science - Insituto Metrópole Digital (UFRN)](https://github.com/bezerraescossia/imd-data-science)
 - [Pandas](https://github.com/bezerraescossia/pandas)
 
 ### freelancer works
