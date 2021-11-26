@@ -6,7 +6,7 @@ I'm a mechanical engineer and a data scientist.
 In my profile is possible to find some works and study cases i've done, feel free to explore them and if you have any questions I'm available for chatting
 
 - 📫 How to reach me: bezerraescossia@gmail.com
-- 🌐 My webpage: bezerraescossia.github.io
+- 🌐 My webpage: [bezerraescossia.github.io](https://bezerraescossia.github.io)
 
 ## Repositories
 ### Studies
