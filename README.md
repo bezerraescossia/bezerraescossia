@@ -10,7 +10,7 @@ In my profile is possible to find some works and study cases i've done, feel fre
 
 ## Repositories
 ### Studies
-- [IMD1155 - Análise de Redes (UFRN)](https://github.com/bezerraescossia/network-analysis)
+- [IMD1155 - Network Analysis (UFRN)](https://github.com/bezerraescossia/network-analysis)
 - [IMD1151 - Data Science (UFRN)](https://github.com/bezerraescossia/imd-data-science)
 - [Pandas](https://github.com/bezerraescossia/pandas)
 
