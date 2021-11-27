@@ -10,12 +10,12 @@ In my profile is possible to find some works and study cases i've done, feel fre
 
 ## Repositories
 ### Studies
-- [Network Analysis](https://github.com/bezerraescossia/network-analysis)
-- [Data Science - Insituto Metrópole Digital (UFRN)](https://github.com/bezerraescossia/imd-data-science)
+- [IMD1155 - Análise de Redes (UFRN)](https://github.com/bezerraescossia/network-analysis)
+- [IMD1151 - Data Science (UFRN)](https://github.com/bezerraescossia/imd-data-science)
 - [Pandas](https://github.com/bezerraescossia/pandas)
 
-### freelancer works
-- [Fiocruz](https://github.com/bezerraescossia/fiocruz)
+### Works
+- [Fiocruz Research](https://github.com/bezerraescossia/fiocruz)
 
 <!--
 ### personal projects
