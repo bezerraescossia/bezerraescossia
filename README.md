@@ -10,9 +10,12 @@ In my profile is possible to find some works and study cases i've done, feel fre
 
 ## Repositories
 ### Studies
-- IMD1155 - Network Analysis (UFRN) [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/network-analysis)
-- IMD1151 - Data Science (UFRN) [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/imd-data-science)
-- Data Cleaning [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/pandas)
+- Universidade Federal do Rio Grande do Norte:
+   - IMD1155 - Network Analysis (UFRN) [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/network-analysis)
+   - IMD1151 - Data Science (UFRN) [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/imd-data-science)
+ 
+- Alura Cursos:
+   - Pandas [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/pandas)
 
 ### Works
 - Fiocruz Research [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/fiocruz)
