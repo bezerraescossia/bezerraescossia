@@ -1,7 +1,7 @@
 # Hello! Welcome to my GitHub profile 👋
 My name is Rafael Bezerra or you can call me just Bezerra if you want to. 
 
-I'm a mechanical engineer and a data scientist.
+I'm a mechanical engineer and a data scientist in progress.
 
 In my profile is possible to find some works and study cases i've done, feel free to explore them and if you have any questions I'm available for chatting
 
@@ -9,13 +9,9 @@ In my profile is possible to find some works and study cases i've done, feel fre
 - 🌐 My webpage: [bezerraescossia.github.io](https://bezerraescossia.github.io)
 
 ## Repositories
-### Studies
-- Universidade Federal do Rio Grande do Norte:
+### Universidade Federal do Rio Grande do Norte:
    - IMD1155 - Network Analysis [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/network-analysis)
    - IMD1151 - Data Science [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/imd-data-science)
- 
-- Alura Cursos:
-   - Pandas [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/pandas)
 
 ### Works
 - Fiocruz Research [![Open GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/bezerraescossia/fiocruz)
