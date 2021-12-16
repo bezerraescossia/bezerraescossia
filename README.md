@@ -10,11 +10,11 @@ In my profile is possible to find some works and study cases i've done, feel fre
 
 ## Repositories
 ### Universidade Federal do Rio Grande do Norte:
-   - [![Github](https://img.shields.io/badge/-IMD1155_Network_Analysis-EC1C24?style=social&logo=Github)](https://github.com/bezerraescossia/network-analysis)
-   - [![Github](https://img.shields.io/badge/-IMD1151_Data_Science-EC1C24?style=social&logo=Github)](https://github.com/bezerraescossia/imd-data-science)
+   - IMD1155 - Network Analysis [![Github](https://img.shields.io/badge/--EC1C24?style=social&logo=Github)](https://github.com/bezerraescossia/network-analysis)
+   - IMD1151 - Data Science [![Github](https://img.shields.io/badge/--EC1C24?style=social&logo=Github)](https://github.com/bezerraescossia/imd-data-science)
 
 ### Works
-- [![Github](https://img.shields.io/badge/-Fiocruz_Research-EC1C24?style=social&logo=Github)](https://github.com/bezerraescossia/fiocruz)
+- Fiocruz Research [![Github](https://img.shields.io/badge/--EC1C24?style=social&logo=Github)](https://github.com/bezerraescossia/fiocruz)
 
 <!--
 ### personal projects
